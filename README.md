@@ -8,10 +8,10 @@ I design, operate, and maintain systems with a focus on reliability, scalability
 
 ## 🧠 About Me
 
-- Network Engineer focused on infrastructure & DevOps
-- Strong experience with Linux-based systems
-- Interested in networking, automation, and system reliability
-- Working with self-hosted and distributed environments
+- Network Engineer focused on infrastructure and DevOps
+- Strong experience with Linux-based systems and networking fundamentals
+- Interested in automation, system reliability, and distributed systems
+- Working with self-hosted and cloud-based environments
 - Focused on production-ready engineering practices
 
 ---
@@ -19,7 +19,7 @@ I design, operate, and maintain systems with a focus on reliability, scalability
 ## 🚧 Current Focus
 
 - Building and maintaining a self-hosted homelab using Docker
-- Running internal services (Nextcloud and automation tools)
+- Running internal services (Nextcloud and automation tooling)
 - Implementing CI/CD pipelines using GitHub Actions
 - Working with Kubernetes fundamentals
 - Expanding AWS cloud infrastructure knowledge
@@ -47,15 +47,6 @@ I design, operate, and maintain systems with a focus on reliability, scalability
 
 ---
 
-<!--
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Ghanima&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ghanima&layout=compact&theme=tokyonight)
-
----
--->
 ## 📂 Projects
 
 Infrastructure experiments, homelab setups, and automation workflows:
@@ -66,8 +57,8 @@ Infrastructure experiments, homelab setups, and automation workflows:
 
 ## 📫 Contact
 
-- Email: A.AYGhanima@proton.me  
-- LinkedIn: https://LinkedIn.com/A-Ghanima  
+- Email: A.AYGhanima@proton.me
+- LinkedIn: https://linkedin.com/in/A-Ghanima
 
 ---
 
