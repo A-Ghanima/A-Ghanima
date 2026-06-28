@@ -57,7 +57,7 @@ Infrastructure experiments, homelab setups, and automation workflows:
 
 ## 📫 Contact
 
-- Email: A.AYGhanima@proton.me
+- Email: contact@ghanima.run
 - LinkedIn: https://linkedin.com/in/A-Ghanima
 
 ---
